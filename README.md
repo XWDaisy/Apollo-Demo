@@ -2,7 +2,6 @@
 ##### * Apollo是什么
 >Apollo是一个用于构建数据图的平台，它是一个将应用程序客户端(如React和iOS应用程序)无缝连接到后端服务的通信层
 
-![e3a8b64cef621c2a704cf79d25995729.jpeg](evernotecid://258B8C7B-904E-4F54-8A06-E65B064D2A43/appyinxiangcom/27632709/ENResource/p28)
 
 ##### * 为什么使用GraphQL
 
